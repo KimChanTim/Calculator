@@ -1,0 +1,9 @@
+PUSH Push
+POP Pop
+ADD Add
+SUB Sub
+MUL Mul
+DIV Div
+SQRT Sqrt
+PRINT Print
+DEFINE Define

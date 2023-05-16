@@ -1,0 +1,19 @@
+PUSH 4
+DEFINE cat 12
+PUSH cat
+ADD
+# 16
+PRINT
+DEFINE dog -5
+PUSH cat
+PUSH dog
+PUSH dog
+SUB
+# 0
+PRINT
+POP
+# 12
+PRINT
+MUL
+# 192
+PRINT
